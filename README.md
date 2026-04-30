@@ -16,11 +16,6 @@ Not deployed. This project is presented through a Jupyter Notebook, preprocessin
 |---|
 | ![Dynamic Pricing Dashboard](dynamic_pricing_dashboard.png) |
 
-### Additional Dashboard Asset
-
-| Dashboard Image |
-|---|
-| ![Dashboard Image](IMAGES/dynamic_pricing_dashboard.png) |
 
 ## Project Highlights
 
